@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: "DMSanasMed";
+    src: url("/assets/fonts/static/DMSans-Medium.ttf");
+}
+@font-face {
+    font-family: "DMSanasMedIt";
+    src: url("/assets/fonts/static/DMSans-MediumItalic.ttf");
+}
+@font-face {
+    font-family: "DMSanasReg";
+    src: url("/assets/fonts/static/DMSans-Regular.ttf");
+}
+
+
+
+
